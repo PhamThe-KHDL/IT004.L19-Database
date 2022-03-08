@@ -8,6 +8,33 @@ Học kỳ 1 Năm 2 Năm học 2020-2021
 - Huỳnh Hồ Thị Mộng Trinh
 - Nguyễn Minh Nghĩa
 
+
+## Các khái niệm cơ bản
+
+### **SQL là gì?** 
+
+
+
+
+### **Dữ liệu là gì?**
+
+
+
+
+### **Cơ sở dữ liệu là gi?**
+
+
+
+
+### **Hệ quản trị cơ sở dữ liệu là gì?**
+
+
+
+
+
+
+
+
 ## Thực hiện
 
 ```
